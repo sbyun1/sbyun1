@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> 🛠 Tech Stack 🛠 </h2>
+<h2> 🛠 Languages and Tools 🛠 </h2>
 <h3>Backend</h3>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
 <img alt="JSP" src ="https://img.shields.io/badge/JSP-F86001.svg?&style=flat&logo=Java&logoColor=white"/>
@@ -9,9 +9,9 @@
 <img alt="Mybatis" src ="https://img.shields.io/badge/Mybatis-1F4056.svg?&style=flat&logo=Mybatis&logoColor=white"/>
 
 <h3>Frontend</h3>
+<img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
-<img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
 
 <br>
@@ -20,5 +20,7 @@
 <a href="mailto:sbyun95@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/sbyun95@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbyun1&count_private=true&include_all_commits=true&show_icons=true&theme=buefy) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbyun1&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sbyun1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbyun1&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
