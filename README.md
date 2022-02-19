@@ -13,7 +13,7 @@
 <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
 <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
-<img alt="Ajax" src ="https://img.shields.io/badge/Ajax-0094F5.svg?&style=flat&logo=Ajax&logoColor=white"/>
+
 <br>
 <hr>
 <br>
